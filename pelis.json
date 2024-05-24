@@ -1,0 +1,42 @@
+{
+    "coleccion": "Películas",
+    "genero": "Ciencia ficción",
+    "peliculas": [
+        {
+            "peli_id": 1,
+            "name": "Star Wars",
+            "img": "starwars.jpg",
+            "estreno": "1977",
+            "duracion": "2h 1m",
+            "director": "George Lucas",
+            "actores": [
+                "Mark Hamill",
+                "Carrie Fisher"
+            ]
+        },
+        {
+            "peli_id": 2,
+            "name": "Dune",
+            "img": "dune.jpg",
+            "estreno": "2021",
+            "duracion": "2h 35m",
+            "director": "Denis Villeneuve",
+            "actores": [
+                "Timothée Chalamet",
+                "Javier Bardem"
+            ]
+        },
+        {
+            "peli_id": 3,
+            "name": "Star Trek",
+            "img": "startrek.jpeg",
+            "estreno": "2009",
+            "duracion": "2h 7m",
+            "director": "J. J. Abrams",
+            "actores": [
+                "Chris Pine",
+                "Zachary Quinto"
+            ]
+        }
+    ]
+}
